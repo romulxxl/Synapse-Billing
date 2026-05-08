@@ -81,7 +81,7 @@ No sign-up required. A pre-seeded account is ready to explore immediately.
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/your-username/synapse-billing.git
+git clone https://github.com/romulxxl/synapse-billing.git
 cd synapse-billing
 npm install
 
