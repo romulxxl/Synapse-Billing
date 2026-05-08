@@ -9,7 +9,7 @@
 
 A production-grade SaaS billing dashboard built as a portfolio demonstration. Simulates a fictional analytics product called **Synapse** — featuring real Stripe TEST mode subscriptions, GitHub OAuth, and a zero-config demo mode that requires only one environment variable to deploy.
 
-**Live demo:** [your-app.vercel.app](https://your-app.vercel.app)
+**Live demo:** [billing-dashboard.vercel.app](https://billing-dashboard-delta.vercel.app/)
 
 ---
 
